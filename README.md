@@ -4,8 +4,8 @@ This flutter AI driven application detects pose in realtime environment. It leve
 
 ## Demo 
 
-<img align="left" alt="splashscreen" width="280px" src="https://github.com/sukanyabag/Pose-Estimator-AI-App/blob/master/img/splashscreen.jpeg"/>
-<img align="left" alt="workingdemoss" width="226px" src="https://github.com/sukanyabag/Pose-Estimator-AI-App/blob/master/img/tomholland.jpeg"/>
+
+<img align="left" alt="workingdemoss" width="326px" src="https://github.com/sukanyabag/Pose-Estimator-AI-App/blob/master/img/tomholland.jpeg"/>
 
 
 
