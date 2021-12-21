@@ -1,24 +1,10 @@
-For details: https://medium.com/@ravindusenaratne
+# Pose Estimator AI Application
 
-# flutter_pose_estimation
+This flutter AI driven application detects pose in realtime environment. It leverages Google's PoseNet Model which comes with TensorFlow.js. 
 
-## Install 
-
-```
-flutter packages get
-```
-
-## Run
-
-```
-flutter run
-```
-
-## Models
-
-- Pose Estimation 
-  - PoseNet
+## Demo 
 
 
 
-"# Flutter-Pose-Estimation-" 
+https://user-images.githubusercontent.com/64003917/146908260-8db9976d-8a3b-40d7-8537-60068bfef027.mp4
+
